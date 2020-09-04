@@ -1,6 +1,7 @@
 package aidd.composite;
 
 /**
+ * 组合模式代码示例
  * @author caijiacheng
  * @create 2020/9/4
  */
