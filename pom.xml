@@ -6,4 +6,11 @@
   <groupId>com.aidd.bernard</groupId>
   <artifactId>DesignPatterns</artifactId>
   <version>1.0.0</version>
+  <dependencies>
+    <dependency>
+      <groupId>cglib</groupId>
+      <artifactId>cglib</artifactId>
+      <version>3.2.4</version>
+    </dependency>
+  </dependencies>
 </project>
