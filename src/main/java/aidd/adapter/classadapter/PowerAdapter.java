@@ -3,7 +3,7 @@ package aidd.adapter.classadapter;
 /**
  * 适配器角色
  *
- * @author caijiacheng
+ * @author jeachin
  * @create 2020/9/2
  */
 public class PowerAdapter extends PowerAdaptee implements PowerTarget {

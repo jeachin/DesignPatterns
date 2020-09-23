@@ -2,7 +2,7 @@ package aidd.adapter.classadapter;
 
 /**
  * 适配者角色
- * @author caijiacheng
+ * @author jeachin
  * @create 2020/9/2
  */
 public class PowerAdaptee {

@@ -2,7 +2,7 @@ package aidd.proxy;
 
 /**
  * 真实主题类
- * @author caijiacheng
+ * @author jeachin
  * @create 2020/9/9
  */
 public class JayChou implements ReceiveGift{

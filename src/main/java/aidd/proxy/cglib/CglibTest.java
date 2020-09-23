@@ -1,7 +1,7 @@
 package aidd.proxy.cglib;
 
 /**
- * @author caijiacheng
+ * @author jeachin
  * @create 2020/9/9
  */
 public class CglibTest {

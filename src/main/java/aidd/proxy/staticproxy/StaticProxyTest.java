@@ -4,7 +4,7 @@ import aidd.proxy.JayChou;
 import aidd.proxy.ReceiveGift;
 
 /**
- * @author caijiacheng
+ * @author jeachin
  * @create 2020/9/9
  */
 public class StaticProxyTest {

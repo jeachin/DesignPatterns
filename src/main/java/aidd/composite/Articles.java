@@ -3,7 +3,7 @@ package aidd.composite;
 /**
  * 抽象构建：物品
  *
- * @author caijiacheng
+ * @author jeachin
  * @create 2020/9/4
  * @since 1.0.0
  */

@@ -3,7 +3,7 @@ package aidd.singleton;
 /**
  * 注册式单例模式(枚举)
  *
- * @author caijiacheng
+ * @author jeachin
  * @create 2020/9/1
  */
 public class SingletonTest07 {

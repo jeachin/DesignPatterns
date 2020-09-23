@@ -3,7 +3,7 @@ package aidd.adapter.objectadapter;
 /**
  * 目标角色：
  *
- * @author caijiacheng
+ * @author jeachin
  * @create 2020/9/2
  * @since 1.0.0
  */

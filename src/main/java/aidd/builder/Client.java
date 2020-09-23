@@ -3,7 +3,7 @@ package aidd.builder;
 /**
  * 〈客户类〉
  *
- * @author caijiacheng
+ * @author jeachin
  * @create 2020/9/1
  */
 public class Client {

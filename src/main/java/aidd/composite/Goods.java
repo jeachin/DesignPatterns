@@ -3,7 +3,7 @@ package aidd.composite;
 /**
  * 树叶构建：商品
  *
- * @author caijiacheng
+ * @author jeachin
  * @create 2020/9/4
  */
 public class Goods implements Articles{
