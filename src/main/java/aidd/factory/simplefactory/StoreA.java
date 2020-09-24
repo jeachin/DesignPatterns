@@ -4,7 +4,7 @@ import aidd.factory.phone.Phone;
 
 /**
  * 专卖店A
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public class StoreA {

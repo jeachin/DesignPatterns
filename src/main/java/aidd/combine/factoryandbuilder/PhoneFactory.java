@@ -3,7 +3,7 @@ package aidd.combine.factoryandbuilder;
 import aidd.factory.phone.Phone;
 
 /**
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public interface PhoneFactory {

@@ -5,7 +5,7 @@ import aidd.factory.phone.ApplePhone;
 
 /**
  * 苹果工厂
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public class AppleFactory implements Factory{

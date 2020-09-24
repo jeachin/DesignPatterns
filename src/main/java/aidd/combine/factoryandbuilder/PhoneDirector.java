@@ -5,7 +5,7 @@ import aidd.factory.phone.Phone;
 /**
  *
  //结合建造者模式的工厂类
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public class PhoneDirector {

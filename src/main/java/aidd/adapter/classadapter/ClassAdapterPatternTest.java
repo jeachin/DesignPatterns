@@ -1,7 +1,7 @@
 package aidd.adapter.classadapter;
 
 /**
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/2
  */
 public class ClassAdapterPatternTest {

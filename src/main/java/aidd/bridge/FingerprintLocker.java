@@ -3,7 +3,7 @@ package aidd.bridge;
 /**
  * 指纹解锁
  *
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public class FingerprintLocker implements Locker {

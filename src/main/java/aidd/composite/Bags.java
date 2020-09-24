@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * //树枝构件：袋子
  *
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/4
  */
 public class Bags implements Articles {

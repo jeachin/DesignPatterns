@@ -1,7 +1,7 @@
 package aidd.factory.phone;
 
 /**
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public abstract class Phone {

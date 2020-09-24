@@ -5,7 +5,7 @@ import aidd.proxy.ReceiveGift;
 import aidd.proxy.staticproxy.StarStudio;
 
 /**
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/9
  */
 public class DynamicProxyTest {

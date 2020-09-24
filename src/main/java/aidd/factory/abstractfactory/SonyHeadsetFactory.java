@@ -5,7 +5,7 @@ import aidd.factory.headset.SonyHeadset;
 /**
  * 索尼耳机工厂
  *
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 

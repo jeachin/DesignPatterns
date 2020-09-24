@@ -5,7 +5,7 @@ import net.sf.cglib.proxy.MethodInterceptor;
 import net.sf.cglib.proxy.MethodProxy;
 
 /**
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/9
  */
 public class GiftInterceptor implements MethodInterceptor {

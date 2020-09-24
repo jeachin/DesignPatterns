@@ -2,7 +2,7 @@ package aidd.singleton;
 
 /**
  * 静态内部类
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/1
  */
 public class SingletonTest06 {

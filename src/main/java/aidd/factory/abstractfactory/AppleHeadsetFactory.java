@@ -5,7 +5,7 @@ import aidd.factory.headset.AppleHeadset;
 /**
  * 苹果耳机工厂
  *
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public class AppleHeadsetFactory implements HeadsetFactory {

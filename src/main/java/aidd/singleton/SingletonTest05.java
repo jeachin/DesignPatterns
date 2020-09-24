@@ -2,7 +2,7 @@ package aidd.singleton;
 
 /**
  * 懒汉式(双重检查)
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/1
  */
 public class SingletonTest05 {

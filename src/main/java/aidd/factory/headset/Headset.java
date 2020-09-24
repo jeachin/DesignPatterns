@@ -3,7 +3,7 @@ package aidd.factory.headset;
 /**
  * 耳机
  *
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public abstract class Headset {

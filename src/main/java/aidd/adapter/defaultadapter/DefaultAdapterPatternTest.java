@@ -1,7 +1,7 @@
 package aidd.adapter.defaultadapter;
 
 /**
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/2
  */
 public class DefaultAdapterPatternTest {

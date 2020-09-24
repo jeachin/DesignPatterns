@@ -3,7 +3,7 @@ package aidd.combine.factoryandbuilder;
 import aidd.factory.phone.SonyPhone;
 
 /**
- * @author caijiacheng
+ * @author jieachan
  * @create 2020/9/23
  */
 

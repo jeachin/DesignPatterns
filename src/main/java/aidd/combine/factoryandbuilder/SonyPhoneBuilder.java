@@ -4,7 +4,7 @@ import aidd.factory.phone.Phone;
 import aidd.factory.phone.SonyPhone;
 
 /**
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public class SonyPhoneBuilder implements PhoneBuilder {

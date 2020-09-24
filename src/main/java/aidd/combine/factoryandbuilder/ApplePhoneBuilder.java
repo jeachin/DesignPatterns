@@ -4,7 +4,7 @@ import aidd.factory.phone.ApplePhone;
 import aidd.factory.phone.Phone;
 
 /**
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public class ApplePhoneBuilder implements PhoneBuilder {

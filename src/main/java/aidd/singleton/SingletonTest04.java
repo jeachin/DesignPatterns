@@ -3,7 +3,7 @@ package aidd.singleton;
 /**
  * 懒汉式(线程安全，同步方法)
  *
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/1
  */
 public class SingletonTest04 {

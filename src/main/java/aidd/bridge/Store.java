@@ -1,7 +1,7 @@
 package aidd.bridge;
 
 /**
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public class Store {
@@ -33,7 +33,7 @@ public class Store {
      * 功能描述: 专卖店直接增加一个获取拍照的手机方法
      * @Param []
      * @return
-     * @author jeachin
+     * @author jieachan
      * @date 2020/9/23 16:15
      */
 //    private Phone getNokiaPhone(){

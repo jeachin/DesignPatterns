@@ -3,7 +3,7 @@ package aidd.builder;
 /**
  * 〈抽象建造者〉
  *
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/1
  */
 public abstract class Builder {

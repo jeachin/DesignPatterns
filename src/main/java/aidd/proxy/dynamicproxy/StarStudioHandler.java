@@ -7,7 +7,7 @@ import java.lang.reflect.Proxy;
 /**
  * 动态代理类
  *
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/9
  */
 public class StarStudioHandler implements InvocationHandler {

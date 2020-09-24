@@ -2,7 +2,7 @@ package aidd.composite;
 
 /**
  * 组合模式代码示例
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/4
  */
 public class ShoppingTest {

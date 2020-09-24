@@ -8,7 +8,7 @@ import aidd.factory.phone.SonyPhone;
 /**
  * 索尼工厂
  *
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public class SonyFactory implements Factory {

@@ -3,7 +3,7 @@ package aidd.factory.phone;
 /**
  * 索尼手机
  *
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public class SonyPhone extends Phone {

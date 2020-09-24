@@ -3,7 +3,7 @@ package aidd.factory.headset;
 /**
  * 索尼耳机
  *
- * @author jeachin
+ * @author jieachan
  * @create 2020/9/23
  */
 public class SonyHeadset extends Headset {
