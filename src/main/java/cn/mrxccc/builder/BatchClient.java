@@ -7,15 +7,15 @@ package cn.mrxccc.builder;
 public class BatchClient {
     public static void main(String[] args) {
         Director director = new Director();
-        // 1万辆A类型的奔驰车
+        // 100辆A类型的奔驰车
         for (int i = 0; i < 100; i++) {
             director.getABenzModel().run();
         }
-        // 100万辆B类型的奔驰车
+        // 100辆B类型的奔驰车
         for (int i = 0; i < 100; i++) {
             director.getBBenzModel().run();
         }
-        // 1000万辆C类型的宝马车
+        // 100辆C类型的宝马车
         for (int i = 0; i < 100; i++) {
             director.getCBMWModel().run();
         }

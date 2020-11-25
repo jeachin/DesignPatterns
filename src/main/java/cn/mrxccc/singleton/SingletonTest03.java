@@ -8,9 +8,22 @@ package cn.mrxccc.singleton;
  */
 public class SingletonTest03 {
     public static void main(String[] args) {
-        SingletonClass03 c1 = SingletonClass03.getInstance();
-        SingletonClass03 c2 = SingletonClass03.getInstance();
-        System.out.println(c1 == c2);
+//        System.out.println("单线程创建实例=======");
+//        SingletonClass03 c1 = SingletonClass03.getInstance();
+//        SingletonClass03 c2 = SingletonClass03.getInstance();
+//        System.out.println(c1 == c2);
+        System.out.println("多线程创建实例=======");
+        //创建10个线程, 在每个 线程中打印单例对象
+        for (int i = 0; i < 10; i++) {
+            new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    //调用Singleton.getInstance()返回单例对象,打印会输出对象的哈希码
+                    System.out.println(SingletonClass03.getInstance());
+                }
+            }).start();
+        }
+        //程序运行后,输出单例的哈希码都相同,说明是同一个对象
     }
 }
 

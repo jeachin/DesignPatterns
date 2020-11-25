@@ -16,7 +16,6 @@ public class SingletonTest08 {
         Object c1 = constructor.newInstance();
         Object c2 = SingletonClass08.getInstance();
         System.out.println(c1 == c2);
-
     }
 }
 
