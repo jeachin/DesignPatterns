@@ -1,8 +1,8 @@
 # 设计模式 DesignPatterns
 ## 创建型模式：
-* 工厂方法模式（Factory Method）:[设计模式-工厂方法模式](https://blog.aidd.top/posts/89a20157.html)
-* 抽象工厂模式（Abstract Factory）：[设计模式-抽象工厂模式](https://blog.aidd.top/posts/5a86ebac.html)
-* 建造者模式（Builder）:[设计模式-建造者模式](https://blog.aidd.top/posts/2a48474d.html)
+* 工厂方法模式（Factory Method）:
+* 抽象工厂模式（Abstract Factory）：
+* 建造者模式（Builder）:
 * 单例模式（Singleton）: 
 * 原型模式（Prototype）：
 
